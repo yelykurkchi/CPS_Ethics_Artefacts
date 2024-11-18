@@ -1,4 +1,4 @@
-This repository contains the supporting artifacts for the paper titled Elicitation of Ethics-based Requirements for Cyber-Physical Systems. The artifacts are organized into two main folders: `graphs` and `tables`. Below is a description of the contents of each folder:
+This repository contains the supporting artefacts for the paper titled Elicitation of Ethics-based Requirements for Cyber-Physical Systems. The artefacts are organized into two main folders: `graphs` and `tables`. Below is a description of the contents of each folder:
 
 ## Folder Structure
 
